@@ -1,0 +1,39 @@
+@charset "UTF-8";
+
+body { 
+	
+	background: url(https://i.ytimg.com/vi/TMV7H5N5F-s/maxresdefault.jpg) no-repeat center center fixed; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+
+}
+
+.floating-box {
+	display: block;
+	margin: auto;
+	margin-top: 50px;
+	width: fit-content;
+	height: fit-content;
+	padding: 10px;
+	background-color: DodgerBlue;
+	color: white;
+	font: 14px arial, sans-serif;
+	text-align: left;
+	box-shadow: 0px 5px 10px 5px #404040;
+}
+
+/* .input-box { */
+/* 	display: inline-block; */
+/* 	background-color: white; */
+/* 	color: grey; */
+/* 	font: 12px arial, sans-serif; */
+/* 	width: 80%; */
+/* 	height: 20px; */
+/* 	margin-bottom: 15px; */
+/* 	margin: auto; */
+/* 	padding: 3px; */
+/* 	outline-style: outset; */
+	
+/* } */
