@@ -12,16 +12,19 @@ body {
 
 .floating-box {
 	display: block;
+	border-radius: 20px;
 	margin: auto;
-	margin-top: 50px;
+	margin-top: 20px;
 	width: fit-content;
 	height: fit-content;
-	padding: 10px;
-	background-color: DodgerBlue;
+	padding: 20px;
+	background-color: rgba(100, 175, 250, 0.4);
 	color: white;
-	font: 14px arial, sans-serif;
+	font: 12px arial, sans-serif;
 	text-align: left;
-	box-shadow: 0px 5px 10px 5px #404040;
+	line-height: 20px;
+	letter-spacing: 1px;
+	box-shadow: 0px 5px 10px 5px rgba(0, 0, 0, 0.4);
 }
 
 /* .input-box { */
